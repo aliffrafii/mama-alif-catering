@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍱 Mama Alif Catering — Food Ordering System
+# Mama Alif Catering — Food Ordering System
 
 Aplikasi web pemesanan catering online untuk **Mama Alif Catering** (Pondok Ungu Permai, Bekasi).
 Pelanggan bisa memesan Nasi Box, Prasmanan, dan Nasi Tumpeng, membayar online lewat Midtrans, dan melacak status pesanan.
